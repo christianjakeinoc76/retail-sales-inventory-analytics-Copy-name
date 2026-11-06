@@ -1,0 +1,6 @@
+{
+  "name": "Retail Sales & Inventory Management System",
+  "description": "Comprehensive Retail Sales, Inventory Management, and Business Analytics System with descriptive, predictive, and prescriptive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
